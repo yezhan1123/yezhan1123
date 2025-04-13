@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there is yezhan1123👋
+## exploring the computer science
 <!--
 **yezhan1123/yezhan1123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
